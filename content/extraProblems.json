@@ -27,6 +27,19 @@
       }
     },
     {
+      "uniqueId": "cf-1808B",
+      "name": "Playing in a Casino",
+      "url": "https://codeforces.com/contest/1808/problem/B",
+      "source": "CF",
+      "difficulty": "Easy",
+      "isStarred": false,
+      "tags": ["Sorting"],
+      "solutionMetadata": {
+        "kind": "autogen-label-from-site"
+        "site": "CF"
+      }
+    },
+    {
       "uniqueId": "usaco-711",
       "name": "Why Did the Cow Cross the Road",
       "url": "http://www.usaco.org/index.php?page=viewproblem2&cpid=711",
